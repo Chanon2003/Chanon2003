@@ -9,7 +9,7 @@ I have been learning to code for the past 5 months, and currently, I am focusing
 * 🌍  I'm based in Chonburi, Thailnd
 * 🖥️  See my portfolio at [My Port](http://port-folio1-one.vercel.app/)
 * ✉️  You can contact me at [ch.chanonlienwork@gmail.com](mailto:ch.chanonlienwork@gmail.com)
-* 🧠  I'm learning ReactJs,NodeJs | JavaScript,Tyscript | JS DSA Algorithmn  | Infuture:interesting Nextjs+NestJs
+* 🧠  I'm learning ReactJs,NodeJs | JavaScript,Tyscript | JS DSA Algorithmn 
 
 ### Skills
 
