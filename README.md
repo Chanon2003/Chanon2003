@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chanon
 ==============================================================================================================================
 
-Finding a Jobs Fullstack Developer ReactJs+NodeJs
+Finding a Jobs Fullstack Developer ReactJs+NodeJs || Programmer jr
 -------------------------------------------------
 
 I have been learning to code for the past 5 months, and currently, I am focusing on learning Next.js and TypeScript. While I have no professional experience working with code yet, I am passionate about coding and eager to grow my skills. I am actively looking for a position as a Full-Stack Developer (React.js + Node.js) Or BackEnd Developer Node.js express and excited to apply what I've learned so far.
